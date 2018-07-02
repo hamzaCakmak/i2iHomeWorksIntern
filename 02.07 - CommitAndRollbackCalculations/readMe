@@ -1,0 +1,3 @@
+Delete ve update işlemlerinden önce datası olmayan tablolara insert işlemi yapılıp ardından delete ve update işlemleri gerçekleştirilmiştir.
+Her işlem sonrası datalar temizlenmiş ardından tekrar sıfırdan işlemler gerçekleştirilmiştir.
+
